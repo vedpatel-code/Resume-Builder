@@ -1,1 +1,2 @@
 # Resume-Builder
+  Resume Builder is a powerful and easy-to-use tool that helps you create a professional resume in just a few minutes. Whether you’re a student, a fresher, or an experienced professional, our platform makes it simple to design a stunning, job-ready resume without any technical skills. Choose from modern templates, customize your details, and download your resume instantly. Build your career faster with a resume that truly stands out — smart, elegant, and ready to impress any recruiter.
